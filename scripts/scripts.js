@@ -18,7 +18,7 @@ import {
 } from './aem.js';
 
 /**
- * Builds hero block and prepends to main in a new section.
+ * Builds hero block and prepends to main in a new section new sai.
  * @param {Element} main The container element
  */
 function buildHeroBlock(main) {
