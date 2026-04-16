@@ -1,5 +1,9 @@
 {
   "project": "DA Block Collection",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}"
+  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
+  "previewHost": "main--daedsrepo--sai107-dei.aem.page",
+  "liveHost": "main--daedsrepo--sai107-dei.aem.live",
+  "contentSourceUrl": "https://content.da.live/sai107-dei/daedsrepo/",
+  "contentSourceType": "markup"
 }
